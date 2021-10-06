@@ -7,7 +7,7 @@ public class four_number {
 
     public static void main(String[] args) {
         System.out.println( );
-test
+test 2
 
     }
 }
