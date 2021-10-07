@@ -2,7 +2,7 @@ package week_1;
 
 import java.util.Scanner;
 
-public class max_number {
+public class Task_2_max_number {
     public static void main(String[] args) {
 
         int max = 0;

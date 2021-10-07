@@ -2,7 +2,7 @@ package week_1;
 
 import java.util.Scanner;
 
-public class four_number {
+public class Task_1_four_number {
 
      //Given 4 numbers of type int. Compare them and print the smallest to the console.
 
